@@ -1,0 +1,16 @@
+[goldmark]
+  [goldmark.renderer]
+    hardWraps = false
+    unsafe = true
+    xhtml = false
+  [goldmark.extensions]
+    typographer = false
+  [highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = "--"
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+    tabWidth = 2

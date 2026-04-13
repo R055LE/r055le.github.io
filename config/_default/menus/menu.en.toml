@@ -1,0 +1,31 @@
+[[main]]
+  name = "Home"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "Blog"
+  url = "post/"
+  weight = -109
+
+[[main]]
+  name = "Projects"
+  url = "projects/"
+  weight = -108
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = -107
+
+# social menu links
+
+[[social]]
+  name = "github"
+  weight = 1
+  url = "https://github.com/R055LE"
+
+[[social]]
+  name = "linkedin"
+  weight = 2
+  url = "https://www.linkedin.com/in/rosstomsic/"

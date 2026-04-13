@@ -1,7 +1,7 @@
 +++
-date = '2026-04-12'
-draft = false
-title = 'Projects'
+title = "Projects"
+date = "2026-04-12"
+author = "R055LE"
 +++
 
 Hands-on labs demonstrating production-grade infrastructure patterns. Each one is designed to be read — the documentation, decisions, and CI are as much the point as the code.

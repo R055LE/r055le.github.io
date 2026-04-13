@@ -1,7 +1,8 @@
 +++
-date = '2026-04-12'
-draft = false
-title = 'About'
+title = "About"
+date = "2026-04-12"
+aliases = ["about"]
+author = "R055LE"
 +++
 
 Sr. DevSecOps Engineer with 13 years in IT. I walk into environments with no documentation, no CI/CD, and no observability, and I leave behind infrastructure that actually works.

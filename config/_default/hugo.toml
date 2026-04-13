@@ -1,0 +1,15 @@
+baseurl = "https://r055le.github.io/"
+copyright = "Copyright © 2026, R055LE; all rights reserved."
+theme = "hugo-clarity"
+DefaultContentLanguage = "en"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+pagerSize = 10
