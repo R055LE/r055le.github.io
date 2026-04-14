@@ -5,7 +5,7 @@ aliases = ["about"]
 author = "R055LE"
 +++
 
-![R055LE](/images/avatar.jpg)
+<img src="/images/avatar.jpg" alt="R055LE" class="about-photo">
 
 Sr. DevSecOps Engineer with 13 years in IT. I walk into environments with no documentation, no CI/CD, and no observability, and I leave behind infrastructure that actually works.
 
