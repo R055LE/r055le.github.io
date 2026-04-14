@@ -5,6 +5,8 @@ aliases = ["about"]
 author = "R055LE"
 +++
 
+![R055LE](/images/avatar.jpg)
+
 Sr. DevSecOps Engineer with 13 years in IT. I walk into environments with no documentation, no CI/CD, and no observability, and I leave behind infrastructure that actually works.
 
 Federal/DoD compliance, Iron Bank containers, Platform One deployments, and the less glamorous stuff — migrating legacy systems between clouds without losing data and untangling years of manual deployment processes.
